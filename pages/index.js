@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Revan Fauzi Algifari</title>
-        <link rel="icon" href="/cowok.png" />
+        <link rel="icon" href="/chara.ico" />
       </Head>
 
       <main>
