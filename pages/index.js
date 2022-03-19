@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Sm:)le!" />
         <p className="description">
-          Nyoba aja <br><code>BANG</code>
+          Nyoba aja "\n"<code>BANG</code>
         </p>
       </main>
 
